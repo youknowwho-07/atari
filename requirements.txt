@@ -5,3 +5,4 @@ matplotlib
 opencv-python
 tensorflow-gpu
 PIL
+gym[atari]
